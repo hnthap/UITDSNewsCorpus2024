@@ -1,0 +1,3 @@
+[submodule "third_party/ccsum"]
+	path = third_party/ccsum
+	url = https://github.com/hnthap/ccsum
